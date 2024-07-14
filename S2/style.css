@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(bg.jpeg);
+    /* background-size: 100%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heart-container {
+    position: relative;
+    width: 200px;
+    height: 500px;
+}
+
+.heart-piece {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+}
+
+.piece1 {
+    top: 0;
+    left: 75px;
+}
+
+.piece2 {
+    top: 0px;
+    left: 225px;
+}
+
+.piece3 {
+    top: -75px;
+    left: 150px;
+}
+
+.piece4 {
+    top: 75px;
+    left: 300px;
+}
+
+.piece5 {
+    top: 150px;
+    left: 375px;
+}
+
+.piece6 {
+    top: 225px;
+    left: 300px;
+}
+
+.piece7 {
+    top: 450px;
+    left: 75px;
+}
+
+.piece8 {
+    top: 75px;
+    left: 0px;
+}
+
+.piece9 {
+    top: 525px;
+    left: 0px;
+}
+
+.piece10 {
+    top: 0px;
+    right: 200px;
+}
+
+.piece11 {
+    top: -75px;
+    right: 275px;
+}
+
+.piece12 {
+    top: 0px;
+    right: 350px;
+}
+
+.piece13 {
+    top: 75px;
+    right: 425px;
+}
+
+.piece14 {
+    top: 150px;
+    right: 500px;
+}
+
+.piece15 {
+    top: 225px;
+    right: 425px;
+}
+
+.piece16 {
+    top: 300px;
+    right: 350px;
+}
+
+.piece17 {
+    top: 300px;
+    left: 225px;
+}
+
+.piece18 {
+    top: 375px;
+    left: 150px;
+}
+
+.piece19 {
+    top: 450px;
+    right: 200px;
+}
+
+.piece20 {
+    top: 375px;
+    right: 275px;
+}
+
+.btn {
+    width: 200px;
+    height: 200px;
+    top: 150px;
+    left: -65px;
+}
